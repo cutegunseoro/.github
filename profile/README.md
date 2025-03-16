@@ -1,5 +1,3 @@
-# SSAFY 12기 14반 7조
-
 ## 팀원 및 역할 소개
 
 - 팀장: 홍권
@@ -57,10 +55,6 @@ Susucup, 여행의 순간을 담아 나만의 브이로그로.
 ### Entity Relationship Diagram
 
 ![entity_relationship_diagram](assets/entity_relationship_diagram.png)
-
-### Class Diagram
-
-![class_diagram](assets/class_diagram.png)
 
 ### Figma Diagram
 
